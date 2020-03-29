@@ -259,6 +259,7 @@ void scheduler()
     }
     
 }
+
 void printer()
 {
     printf("\n\n\nSummary of the execution\n\n\n");
